@@ -1,1 +1,6 @@
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=315gjkuvqlohbc3nq74nbi52lfgm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=315gjkuvqlohbc3nq74nbi52lfgm&redirect=true)
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=500&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=660&height=150&lines=Linux+salaryman%2C;advocate+for+system+agnostic+FOSS+solutions%2C;having+an+affair+with+proprietary+firmware+on+the+side." alt="Typing SVG" /></a>
+<br><br>
+<pre>
+    💼 System Administrator • Monitoring and IT support
+    💻 Scripting • DevOps • Basic Web Development
+</pre>
