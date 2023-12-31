@@ -1,4 +1,4 @@
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=660&height=150&lines=Linux+salaryman%2C;advocate+for+system+agnostic+FOSS+solutions%2C;having+an+affair+with+proprietary+firmware+on+the+side." alt="Typing SVG" /></a>
+<div align="center"><p>Linux salaryman,<br>advocate for system agnostic FOSS solutions,<br> having an affair with proprietary firmware on the side.</p>
 <br><br>
 <pre>
     💼 System Administrator • Monitoring and IT support
