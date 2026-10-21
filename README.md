@@ -15,7 +15,7 @@ Nothing to install, no account, and your files never leave your computer.
 
 <br>
 
-<table>
+<table align="center">
 <tr><th colspan="3" align="left">IT and networks</th></tr>
 <tr>
 <td width="33%" align="center" valign="top"><a href="https://hardware.carino.systems/"><img src="assets/hardware.svg" width="40" height="40" alt=""></a><br><a href="https://hardware.carino.systems/"><b>Hardware</b></a><br><sub>MAC vendor lookup, Dell service tags,<br>warranty and driver links</sub></td>
